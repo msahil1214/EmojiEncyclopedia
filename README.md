@@ -1,2 +1,2 @@
 # EmojiEncyclopedia
-Created with CodeSandbox
+emojiencyclopedia.netlify.app
